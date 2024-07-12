@@ -1,0 +1,72 @@
+# IntelliJ IDEA specific files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# User-specific files
+*.log
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*.orig
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Compiled source files
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Log files
+*.log
+
+# Build directories
+/build/
+/out/
+/target/
+
+# Dependency directories
+/node_modules/
+/bower_components/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE specific files
+*.pydevproject
+.project
+.metadata
+*.tmp
+*.bak
+*.swp
+*~.nib
+.localhistory
+.externalToolBuilders
+.cproject
+.settings/
+.loadpath
+.classpath
+
+# Maven specific files
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Gradle specific files
+.gradle/
+build/
+
+# Ignore Gradle wrapper jar file
+!gradle-wrapper.jar
+
+# Other
+*~
+# End of file
