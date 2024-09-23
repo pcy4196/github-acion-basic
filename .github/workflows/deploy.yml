@@ -1,5 +1,5 @@
 # Workflow의 이름
-# Workflow : 하나의 yml 파일을 하나의 Workflow라고 부른다. 
+# Workflow : 하나의 yml 파일을 하나의 Workflow라고 한다.
 name: Github Actions 실행시켜보기
 
 # Event : 실행되는 시점을 설정
